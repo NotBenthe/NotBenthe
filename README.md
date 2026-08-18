@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Benthe!
 
-I am currently a Masters student in Astrophysics at Lund University, and I am actively learning Machine Learning and AI.
+I am currently a Masters student in Astrophysics at Lund University.
 
 <!--
 **NotBenthe/NotBenthe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
