@@ -1,4 +1,4 @@
-[![Benthes GitHub Banner](./files/header.png)]
+![Benthes GitHub Banner](./files/header.png)
 
 ## Hi there 👋, I'm Benthe!
 
