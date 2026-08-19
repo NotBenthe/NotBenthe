@@ -1,3 +1,5 @@
+[![Benthes GitHub Banner](./files/header.png)]
+
 ## Hi there 👋, I'm Benthe!
 
 I am currently a Masters student in Astrophysics at Lund University.
