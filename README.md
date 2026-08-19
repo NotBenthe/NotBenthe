@@ -1,6 +1,6 @@
 ![Benthes GitHub Banner](./files/header.png)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/benthe-sturre/)
 
-## Hi there 👋, I'm Benthe!
 
 I am currently a Masters student in Astrophysics at Lund University.
 
